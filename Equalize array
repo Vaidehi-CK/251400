@@ -1,4 +1,8 @@
 def equalizeArray(arr):
           
-    
+    for i in arr
       return len(arr)- max([arr.count(i) for i in arr])
+      
+      
+      
+      
